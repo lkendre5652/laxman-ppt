@@ -1,0 +1,81 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Time Management 
+
+1] Important and demanding tasks.
+
+2] Put a time limit on tasks.
+
+3] Add a "done list" to your to-do list.
+
+4] Be one day late night work.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Communication abilities
+
+1] I am able to communicate with client.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Leadership capabilities
+
+1] Task Assigning
+
+2] Problem-solving 
+
+3] Ability to teach and mentor
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Initiatives
+
+1] R :
+ 
+2] O : 
+
+3] git :
+
+4] Security :
+
+5] wp mail : 10.6 MB Size / 1417 file (I am doint in 10 line)
+
+6] 260MB lp/ 40.2MB size lp.
+
+7] Size - 1.8 GB, Plugins 60, CMS Structure (Wordpress E-com) /  89.1 MB, 2 external modules,MVCL folder structure (Opencart E-Com).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Areas of Self Improvement  
+
+1] Communication
+
+2] Github Implementation.
+
+3] Rj
+
+4] php Backend
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Future Goals and Value Addition in the Organisation
+
+1] lp : in single page.
+
+2] Contact form 7 db : I wants to remove this plugin and create a custome functionality. (5.55MB and 378 files load will reduced on website)
+
+3] Timesheet in React JS ( Backen .NET )
+
+4] Employee Time Management System.
+
+5] Everything should be documented.
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
